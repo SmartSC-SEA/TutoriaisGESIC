@@ -4,5 +4,5 @@ description: >-
   direita para navegar pelo manual.
 ---
 
-# Manual do Pregoeiro
+# 👩⚖ Manual do Pregoeiro
 
