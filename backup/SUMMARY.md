@@ -4,6 +4,7 @@
 
 * [👩⚖ Manual do Pregoeiro](README.md)
   * [1 - Acessar o sistema E-LIC](elic/manual-do-pregoeiro/1-acessar-o-sistema-e-lic.md)
+  * [2 - Recebimento de Propostas no Pregão Eletrônico](elic/manual-do-pregoeiro/2-recebimento-de-propostas-no-pregao-eletronico.md)
   * [3 - Pregão Eletrônico deserto](elic/manual-do-pregoeiro/3-pregao-eletronico-deserto.md)
   * [4 - Abertura de Propostas no Pregão Eletrônico](elic/manual-do-pregoeiro/4-abertura-de-propostas-no-pregao-eletronico.md)
   * [5 - Disputa de Lances no Pregão Eletrônico](elic/manual-do-pregoeiro/5-disputa-de-lances-no-pregao-eletronico.md)

@@ -4,11 +4,11 @@ Encerrada a etapa de negociação com os fornecedores, o sistema entrará na eta
 
 O sistema iniciará a contagem do tempo para que os fornecedores efetuem o registro das intenções de recursos, quando necessário, conforme demonstrado na figura a seguir:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nesta etapa, caso haja intenção, o Pregoeiro poderá fazer uma triagem, identificando eventuais recursos sem fundamento que visam somente atrasar o processo licitatório. À medida em que as intenções de recursos são registradas no sistema pelos fornecedores, o Pregoeiro poderá visualizá-las na tela, conforme demonstrado na figura abaixo:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 11.1 Julgamento das Intenções de Recursos
 
@@ -16,7 +16,7 @@ Finalizado o prazo para registro das intenções de recursos, a situação do pr
 
 * **Passo 01:** Clicar no link da identificação da empresa no campo <mark style="color:red;">**“Empresa”**</mark> para visualizar os dados registrados.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
