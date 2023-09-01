@@ -21,7 +21,3 @@
   * [16 - Revogar o Pregão Eletrônico](elic/manual-do-pregoeiro/16-revogar-o-pregao-eletronico.md)
   * [17 - Anular o Pregão Eletrônico](elic/manual-do-pregoeiro/17-anular-o-pregao-eletronico.md)
   * [18 - Legenda das situações do Pregão Eletrônico](elic/manual-do-pregoeiro/18-legenda-das-situacoes-do-pregao-eletronico.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
