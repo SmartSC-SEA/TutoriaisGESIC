@@ -21,3 +21,14 @@
   * [16 - Revogar o Pregão Eletrônico](elic/manual-do-pregoeiro/16-revogar-o-pregao-eletronico.md)
   * [17 - Anular o Pregão Eletrônico](elic/manual-do-pregoeiro/17-anular-o-pregao-eletronico.md)
   * [18 - Legenda das situações do Pregão Eletrônico](elic/manual-do-pregoeiro/18-legenda-das-situacoes-do-pregao-eletronico.md)
+
+***
+
+* [🛒 Manual do Fornecedor](manual-do-fornecedor/README.md)
+  * [1 - cadastro](manual-do-fornecedor/1-cadastro/README.md)
+    * [Page 1](manual-do-fornecedor/1-cadastro/page-1.md)
+  * [Page](manual-do-fornecedor/page.md)
+
+## WEBLIC
+
+* [Page 2](weblic/page-2.md)
