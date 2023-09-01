@@ -12,6 +12,15 @@
   * [7 - Encerramento da Disputa de Lances no Pregão Eletrônico](elic/manual-do-pregoeiro/7-encerramento-da-disputa-de-lances-no-pregao-eletronico.md)
   * [8 - Negociação / Habilitação / Aceitabilidade](elic/manual-do-pregoeiro/8-negociacao-habilitacao-aceitabilidade.md)
   * [9 - Habilitar o Fornecedor](elic/manual-do-pregoeiro/9-habilitar-o-fornecedor.md)
+  * [10 - Encerrar a Etapa de Negociação](elic/manual-do-pregoeiro/10-encerrar-a-etapa-de-negociacao.md)
+  * [11 - Intenção de Recursos](elic/manual-do-pregoeiro/11-intencao-de-recursos.md)
+  * [12 - Ajuste de Preços](elic/manual-do-pregoeiro/12-ajuste-de-precos.md)
+  * [13 - Adjudicação do Pregão Eletrônico](elic/manual-do-pregoeiro/13-adjudicacao-do-pregao-eletronico.md)
+  * [14 - Retornar à Negociação no Pregão Eletrônico](elic/manual-do-pregoeiro/14-retornar-a-negociacao-no-pregao-eletronico.md)
+  * [15 - Homologação do Pregão Eletrônico](elic/manual-do-pregoeiro/15-homologacao-do-pregao-eletronico.md)
+  * [16 - Revogar o Pregão Eletrônico](elic/manual-do-pregoeiro/16-revogar-o-pregao-eletronico.md)
+  * [17 - Anular o Pregão Eletrônico](elic/manual-do-pregoeiro/17-anular-o-pregao-eletronico.md)
+  * [18 - Legenda das situações do Pregão Eletrônico](elic/manual-do-pregoeiro/18-legenda-das-situacoes-do-pregao-eletronico.md)
 
 ## Group 1
 

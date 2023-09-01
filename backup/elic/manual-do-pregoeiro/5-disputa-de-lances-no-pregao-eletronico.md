@@ -6,28 +6,28 @@ Analisadas as propostas dos fornecedores, o Pregoeiro dará início à disputa d
 * **Passo 02:** Selecionar no campo <mark style="color:red;">**“Exibir”**</mark>, a opção “Pregões eletrônicos em abertura e classificação”.&#x20;
 * **Passo 03:** Acessar o processo do pregão eletrônico, para o qual será realizada a disputa de lances, clicando no seu respectivo link do campo <mark style="color:red;">**“Nº do processo”.**</mark>
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Passo 04:** Clicar no botão <mark style="color:red;">**“Iniciar disputa”.**</mark>&#x20;
 * **Passo 05:** Clicar no botão <mark style="color:red;">**“OK”.**</mark>
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 O sistema apresentará a tela para o Pregoeiro abrir os itens, tornando-os disponíveis para recebimento dos lances dos fornecedores, conforme figura abaixo:&#x20;
 
 * **Passo 06:** Selecionar o(s) item(ns) que será(ão) aberto(s), clicando na(s) respectiva(s) caixa(s) de seleção.&#x20;
 * **Passo 07:** Clicar no botão <mark style="color:red;">**“Abrir item”**</mark> para disponibilizar o(s) item(ns) para recebimento de lances.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Passo 08:** Informar no campo <mark style="color:red;">**“Justificativa”,**</mark> o motivo para abertura do(s) item(ns) selecionado(s).&#x20;
 * **Passo 09:** Clicar no botão <mark style="color:red;">**“Sim”**</mark> para confirmar a operação.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 Os itens serão apresentados abertos, conforme demonstrado na figura abaixo, e o pregão estará disponível para o recebimento de lances dos fornecedores.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 Feito isso, o sistema habilitará as seguintes funcionalidades na tela:
 
@@ -48,13 +48,13 @@ O Pregoeiro poderá suspender um ou mais itens durante o processo de disputa de 
 * **Passo 01:** Selecionar o(s) item(ns) que será(ão) suspenso(s), clicando na(s) respectiva(s) caixa(s) de seleção.&#x20;
 * **Passo 02:** Clicar no botão <mark style="color:red;">**“Suspender item”**</mark>.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 A situação do item será alterada para “Suspenso”:
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 **NOTA:** Ao selecionar todos os itens do pregão eletrônico e acionar o botão “Suspender item”, a situação do processo será alterada para “Suspenso” e será apresentado o link “Reativar” no painel de controle para reativar o pregão eletrônico.
 
@@ -67,7 +67,7 @@ O Pregoeiro poderá reativar itens suspensos na etapa de disputa de lances do pr
 * **Passo 03:** Informar no campo <mark style="color:red;">**“Justificativa”**</mark>, o motivo para realizar a abertura do(s) item(ns).
 * **Passo 04:** Clicar no botão <mark style="color:red;">**“Sim”**</mark> para confirmar a operação.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 Feito isso, a situação do item será alterada para “Aberto ” e ficará disponível para recebimento de novos lances.
 
@@ -83,11 +83,11 @@ Para suspender todos os itens, o Pregoeiro deverá acessar o processo na etapa �
 * **Passo 04:** Clicar no botão <mark style="color:red;">**“Sim”**</mark>.&#x20;
 * **Passo 05:** Clicar no botão <mark style="color:red;">**“OK”**</mark>.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 **NOTA:** Ao selecionar todos os itens do pregão eletrônico e acionar o botão “Suspender item”, a situação do processo será alterada para “Suspenso” e será apresentado no painel de controle, o link “Reativar”, a ser utilizado para reativar todos os itens suspensos, quando necessário.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para reativar todos os itens suspensos, o Pregoeiro deverá executar os passos descritos no item **“6.4 – Reativar o pregão eletrônico na etapa de disputa de lances”**.
 
@@ -97,20 +97,20 @@ Quando todos os itens do pregão eletrônico são suspensos, o sistema torna o p
 
 * **Passo 01:** Clicar no link <mark style="color:red;">**“Reativar”**</mark>, disponível no painel de controle.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Passo 02:** Informar no campo <mark style="color:red;">**“Justificativa”**</mark>, o motivo para reativar o pregão eletrônico, ou seja, reabrir o(s) item(ns) suspenso(s).&#x20;
 * **Passo 03:** Clicar no botão <mark style="color:red;">**“Sim”**</mark>, confirmando a operação.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 A situação do pregão eletrônico será alterada para “Em disputa de lances”:
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 Os itens serão reabertos no processo do pregão eletrônico e ficarão disponíveis para o recebimento de lances.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5.5 Revogar item na etapa de disputa de lances
 

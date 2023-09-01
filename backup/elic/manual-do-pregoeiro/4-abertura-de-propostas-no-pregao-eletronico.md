@@ -8,11 +8,11 @@ Encerrada a etapa de recebimento de propostas dos fornecedores, o sistema entrar
 * **Passo 02:** Clicar no botão <mark style="color:red;">**“OK”**</mark>**,** confirmando a operação.&#x20;
 * **Passo 03:** Clicar no botão <mark style="color:red;">**“OK”.**</mark>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 O sistema apresentará a tela com as propostas recebidas para análise por parte do Pregoeiro, conforme demonstrado na figura abaixo:
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao realizar a análise das propostas, o Pregoeiro poderá desclassificar aquela(s) que julgar inexequível(eis) e reclassificar qualquer proposta desclassificada.
 
@@ -25,11 +25,11 @@ O Pregoeiro poderá desclassificar uma proposta, executando os passos a seguir:&
 * **Passo 03:** Clicar no botão **“Sim”.**&#x20;
 * **Passo 04:** Clicar no botão **“OK”**.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 A proposta será desclassificada, conforme demonstrado na figura abaixo:
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Quando a proposta de um fornecedor é desclassificada, este terá um prazo de 03 minutos para solicitar a reconsideração de sua proposta.&#x20;
 
@@ -48,11 +48,11 @@ O Pregoeiro poderá classificar novamente uma proposta desclassificada, executan
 * **Passo 03:** Clicar no botão **“Sim”.**&#x20;
 * **Passo 04:** Clicar no botão **“OK”.**
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 A proposta será classificada novamente, conforme demonstrado na figura abaixo:
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4.3 Consultar os Anexos das Propostas
 
@@ -63,6 +63,6 @@ O Pregoeiro poderá consultar os anexos de propostas solicitadas no processo, en
 * **Passo 03:** Identificar o item/lote desejado.
 * **Passo 04:** Clicar sobre o arquivo desejado.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 Analisados os anexos, o Pregoeiro poderá iniciar a disputa de lances.

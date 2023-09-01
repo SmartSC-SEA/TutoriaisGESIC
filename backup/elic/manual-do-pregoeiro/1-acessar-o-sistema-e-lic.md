@@ -12,4 +12,4 @@ Para acessar o sistema E-LIC, o usuário deverá executar os passos descritos a 
 
 **Passo 04:** Clicar no botão <mark style="color:red;">**“Acessar”**</mark>.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
