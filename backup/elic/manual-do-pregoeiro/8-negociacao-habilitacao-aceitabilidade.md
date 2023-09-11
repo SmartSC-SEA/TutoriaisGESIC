@@ -126,3 +126,12 @@ Para **atribuir licitante da cota principal** o Pregoeiro deverá executar os pa
 **Passo 10:** Realizados os passos anteriores, verifique que tanto o valor do item de ampla concorrência quanto à habilitação serão atribuídos automaticamente.
 
 <figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=8RUAJXyBpWY" %}
+
+{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=hEXSnw5tteA" %}
+
+{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=4nt0iTp8UiM" %}
+
+{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=Nz8QPYus5k4" %}
+
