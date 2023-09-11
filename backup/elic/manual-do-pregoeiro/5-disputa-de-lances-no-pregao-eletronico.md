@@ -133,7 +133,7 @@ O Pregoeiro poderá revogar um ou mais itens durante o processo de disputa de la
 
 
 
-### 5.6 Vídeos tutoriais
+### 5.6 Vídeos Tutoriais
 
 {% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=I7SUdq5giCk" %}
 
