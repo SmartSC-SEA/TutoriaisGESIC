@@ -130,3 +130,7 @@ O Pregoeiro poderá revogar um ou mais itens durante o processo de disputa de la
     <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 **NOTA:** Ao selecionar todos os itens do pregão eletrônico e acionar o botão “Revogar item”, a situação do processo será alterada para “Revogado” e não será possível reativá-lo.
+
+{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=I7SUdq5giCk" %}
+
+{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=LSfZdUftjYc" %}
