@@ -147,6 +147,6 @@ Quando o recurso for indeferido e o pregão for realizado por lote, a situação
 
 
 
-### 11.6 Vídeos tutoriais
+### 11.6 Vídeos Tutoriais
 
 {% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=JYJ53s2SDnU" %}
