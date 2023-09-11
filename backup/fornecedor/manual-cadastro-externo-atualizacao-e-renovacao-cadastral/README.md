@@ -1,8 +1,8 @@
 ---
 description: >-
-  Seja bem-vindo! Utilize os botões abaixo ou o menu à direita para navegar pelo
-  manual.
+  O objetivo desse manual é proporcionar aos usuários que realizem o cadastro,
+  atualização e renovação cadastral.
 ---
 
-# Manual do Cadastro Externo Atualização e Renovação Cadastral
+# Manual Cadastro Externo Atualização e Renovação Cadastral
 

@@ -25,7 +25,7 @@
 ## &#x20;Fornecedor
 
 * [Manual Cadastro Externo Atualização e Renovação Cadastral](fornecedor/manual-cadastro-externo-atualizacao-e-renovacao-cadastral/README.md)
-  * [1 - Acessar o sistema E-LIC](fornecedor/manual-cadastro-externo-atualizacao-e-renovacao-cadastral/1-acessar-o-sistema-e-lic.md)
+  * [1 - Entendendo o Cadastro Externo](fornecedor/manual-cadastro-externo-atualizacao-e-renovacao-cadastral/1-entendendo-o-cadastro-externo.md)
   * [2 - Recebimento de Propostas no Pregão Eletrônico](fornecedor/manual-cadastro-externo-atualizacao-e-renovacao-cadastral/2-recebimento-de-propostas-no-pregao-eletronico.md)
   * [3 - Pregão Eletrônico deserto](fornecedor/manual-cadastro-externo-atualizacao-e-renovacao-cadastral/3-pregao-eletronico-deserto.md)
   * [4 - Abertura de Propostas no Pregão Eletrônico](fornecedor/manual-cadastro-externo-atualizacao-e-renovacao-cadastral/4-abertura-de-propostas-no-pregao-eletronico.md)
