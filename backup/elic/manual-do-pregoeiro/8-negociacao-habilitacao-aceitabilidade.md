@@ -127,7 +127,13 @@ Para **atribuir licitante da cota principal** o Pregoeiro deverá executar os pa
 
 <figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
+
+
+### 8.5 Vídeos tutoriais
+
 {% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=8RUAJXyBpWY" %}
+
+###
 
 {% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=hEXSnw5tteA" %}
 
