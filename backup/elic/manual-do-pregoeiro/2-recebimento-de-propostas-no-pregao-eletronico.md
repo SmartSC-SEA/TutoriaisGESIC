@@ -39,3 +39,5 @@ Cada uma destas funções pode ser encontrada no painel de controle da tela de a
 O sistema faz verificação do porte da empresa no momento do envio de propostas e disputa de lances de item ou lote que fazem parte de cota **PRINCIPAL, RESERVADA E EXCLUSIVA.**&#x20;
 
 Só permite proposta / lances para os itens da cota reservada ou exclusiva de fornecedores categorizados como **MEIs, MEs e EPPs** para efetivamente atender à legislação vigente.
+
+{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=wo_NcnMCk4s" %}
