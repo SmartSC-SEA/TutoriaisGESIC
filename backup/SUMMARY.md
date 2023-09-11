@@ -2,7 +2,8 @@
 
 ## ELIC
 
-* [👩⚖ Manual do Pregoeiro](README.md)
+* [Page](README.md)
+* [👩⚖ Manual do Pregoeiro](<README (1).md>)
   * [1 - Acessar o sistema E-LIC](elic/manual-do-pregoeiro/1-acessar-o-sistema-e-lic.md)
   * [2 - Recebimento de Propostas no Pregão Eletrônico](elic/manual-do-pregoeiro/2-recebimento-de-propostas-no-pregao-eletronico.md)
   * [3 - Pregão Eletrônico deserto](elic/manual-do-pregoeiro/3-pregao-eletronico-deserto.md)
@@ -21,3 +22,4 @@
   * [16 - Revogar o Pregão Eletrônico](elic/manual-do-pregoeiro/16-revogar-o-pregao-eletronico.md)
   * [17 - Anular o Pregão Eletrônico](elic/manual-do-pregoeiro/17-anular-o-pregao-eletronico.md)
   * [18 - Legenda das situações do Pregão Eletrônico](elic/manual-do-pregoeiro/18-legenda-das-situacoes-do-pregao-eletronico.md)
+* [Manual do Fornecedor](elic/manual-do-fornecedor.md)
