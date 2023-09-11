@@ -144,3 +144,5 @@ Quando o recurso for parcialmente deferido, a Autoridade competente poderá opta
 Quando o recurso for indeferido e o pregão for realizado por item, a situação do processo será alterada para “Em adjudicação”.&#x20;
 
 Quando o recurso for indeferido e o pregão for realizado por lote, a situação do processo será alterada para “Ajuste de preços”.
+
+{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=JYJ53s2SDnU" %}
