@@ -26,9 +26,11 @@ O objetivo do “Cadastro Externo” é proporcionar que efetue cadastro no Port
 
 
 
-(Passo 1) A partir desta tela inicial do sistema, poderá identificar os passos para iniciar o seu cadastro no Portal de Compras. Deve-se clicar na opção destacado: “Cadastro”.
+(Passo 1) Acesse o site [https://e-lic.sc.gov.br/](https://e-lic.sc.gov.br/) poderá identificar os passos para iniciar o seu cadastro no Portal de Compras. Deve-se clicar na opção destacado: “Cadastro”.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Capturar1.JPG" alt=""><figcaption></figcaption></figure>
 
 **Na área que apresenta o resumo do pregão, o usuário pode ver:**&#x20;
 
