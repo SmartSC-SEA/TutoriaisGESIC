@@ -1,12 +1,32 @@
-# 2 - Recebimento de Propostas no Pregão Eletrônico
+# 2 - Entendendo o Cadastro Externo
 
-Na data e hora agendados para início do processo, a situação do pregão eletrônico será alterada para “Em recebimento de propostas”, permitindo ao Pregoeiro acompanhar o envio das propostas dos fornecedores.&#x20;
+O objetivo do “Cadastro Externo” é proporcionar que efetue cadastro no Portal, do qual as empresas fornecedoras deverão incluir suas informações, visando participar de processos de compras mediante análise dos dados pela empresa compradora. Para isso as principais atividades ou funcionalidades para o fornecedor serão divididas e detalhadas nos seguintes tópicos: 2.1. Funcionalidades
 
-**Para acompanhar o pregão eletrônico, o Pregoeiro deverá executar os passos descritos a seguir:**&#x20;
+2.1. Funcionalidades da Tela Inicial de Cadastro&#x20;
 
-* Acessar o menu **Negociação-> Pregão Eletrônico-> **<mark style="color:red;">**“Lista de pregões eletrônicos”**</mark>. O sistema exibirá a lista de todos os pregões eletrônicos cadastrados pelos pregoeiros da unidade gestora.&#x20;
-* Selecionar no campo <mark style="color:red;">**“Exibir”**</mark>, a opção “Pregões eletrônicos em andamento”.&#x20;
-* Acessar o processo do pregão eletrônico em andamento, para o qual será realizado o acompanhamento, clicando no link do campo **“Nº do processo”.**
+2.2. Cadastrando a etapa de Dados Gerais
+
+&#x20;2.3. Cadastrando a etapa de Representantes e Sócios&#x20;
+
+2.4. Cadastrando a etapa de Contatos&#x20;
+
+2.5. Cadastrando a etapa de Dados Bancários
+
+&#x20;2.6. Cadastrando a etapa de Linha de Fornecimento
+
+&#x20;2.7. Cadastrando a etapa de Documentos&#x20;
+
+2.8. Cadastrando a etapa de Áreas de atuação
+
+&#x20;2.9. Cadastrando a etapa de Profissionais
+
+&#x20;2.10. Cadastrando a etapa de Editais de Credenciamento&#x20;
+
+2.11. Confirmação&#x20;
+
+
+
+(Passo 1) A partir desta tela inicial do sistema, poderá identificar os passos para iniciar o seu cadastro no Portal de Compras. Deve-se clicar na opção destacado: “Cadastro”.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
