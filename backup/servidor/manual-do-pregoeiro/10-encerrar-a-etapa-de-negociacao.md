@@ -5,4 +5,4 @@ Realizada a negociação, habilitação dos fornecedores e encerramento dos iten
 * **Passo 01:** Clicar no botão <mark style="color:red;">**“Encerrar etapa”**</mark>.
 * **Passo 02:** Clicar no botão <mark style="color:red;">**“OK”**</mark>.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)

@@ -26,40 +26,32 @@ O objetivo do “Cadastro Externo” é proporcionar que efetue cadastro no Port
 
 
 
-(Passo 1) Acesse o site [https://e-lic.sc.gov.br/](https://e-lic.sc.gov.br/) poderá identificar os passos para iniciar o seu cadastro no Portal de Compras. Deve-se clicar na opção destacado: “Cadastro”.
+Acesse o site [https://e-lic.sc.gov.br/](https://e-lic.sc.gov.br/) para iniciar o seu cadastro no Portal de Compras. Deve-se clicar na opção “Cadastro”.
 
 
 
 <figure><img src="../../.gitbook/assets/Capturar1.JPG" alt=""><figcaption></figcaption></figure>
 
-**Na área que apresenta o resumo do pregão, o usuário pode ver:**&#x20;
+### 2.1. Funcionalidades da Tela Inicial de Cadastro&#x20;
 
-* Quantidade de propostas recebidas;&#x20;
-* Número de Fornecedores que enviaram propostas;&#x20;
-* Quantidade de propostas canceladas;&#x20;
-* Impugnações registradas contra o edital, bem como sua situação: sem parecer, deferido ou indeferido.
+(Passo 1) Ao acessar a tela de “Cadastro” abrirá a tela que permite verificar as ações: “Iniciar Novo Cadastro de Fornecedor”, “Consultar Protocolo” e “Esqueci meu protocolo”:
 
-![](<../../.gitbook/assets/image (1).png>)
+<figure><img src="../../.gitbook/assets/Capturar10.JPG" alt=""><figcaption></figcaption></figure>
 
-O sistema permite realizar uma série de intervenções no processo do pregão eletrônico, quais sejam:&#x20;
 
-* Suspender o pregão;&#x20;
-* Cancelar o pregão;&#x20;
-* Revogar o pregão;&#x20;
-* Reativar um pregão suspenso ou interrompido;&#x20;
-* Anular o pregão;&#x20;
-* Prorrogar o pregão.
 
-Cada uma destas funções pode ser encontrada no painel de controle da tela de acompanhamento do pregão eletrônico.&#x20;
+### 2.2. Cadastrando a Etapa de Dados Gerais
 
-**NOTA**: É importante observar que estas funcionalidades variam, de acordo com a etapa do processo.
+(Passo 1) Os “Dados Gerais” são informações básicas do cadastro da empresa fornecedora. Ao selecionar a opção “Iniciar Novo Cadastro de Fornecedor”, deve-se preencher os dados da empresa, sendo que os campos com destaque em vermelho são campos “Obrigatórios” solicitados pela empresa compradora, e de importância para análise de seu cadastro.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+&#x20;**NOTA:** No módulo de Cadastro de fornecedor é possível configurar para salvar as informações digitadas pelo fornecedor em “caixa alta”, padronizando o cadastro.&#x20;
 
-**Observação sobre mensagem de ALERTA para usuário fornecedor durante envio de proposta para itens/lotes de cotas.**&#x20;
 
-O sistema faz verificação do porte da empresa no momento do envio de propostas e disputa de lances de item ou lote que fazem parte de cota **PRINCIPAL, RESERVADA E EXCLUSIVA.**&#x20;
 
-Só permite proposta / lances para os itens da cota reservada ou exclusiva de fornecedores categorizados como **MEIs, MEs e EPPs** para efetivamente atender à legislação vigente.
+<figure><img src="../../.gitbook/assets/Capturar11.JPG" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=wo_NcnMCk4s" %}
+&#x20;(Passo 2) Para os casos em que a empresa já seja fornecedora do portal de compras, o sistema não permitirá um novo cadastro. Nessa situação já existe um cadastro homologado e não será possível fazer um novo cadastro, apenas de realizar as funções de “Atualização Cadastral” ou “Renovação Cadastral”.
+
+## ![](<../../.gitbook/assets/image (2).png>)
+
+&#x20;Figura 4. Mensagem de alerta caso o CNPJ já seja cadastrado no portal (Passo 3) Inicialmente no primeiro grupo serão apresentados campos “Obrigatórios” como “País”, “Tipo de Pessoa: Física ou Jurídica”. O segundo campo irá determinar o grupo de cadastro que será habilitado ao ser selecionado. Caso seja “Pessoa Jurídica”, habilitará os campos de “CNPJ”, “Razão Social”, “Nome Fantasia” e “Tipo de Cadastro: Completo, Intermediário, Pessoa Física ou Simplificado”, todos campos sendo “Obrigatórios”. Figura 5. Opção de tipo de cadastro dos dados gerais. • “Completo” (Habilitação jurídica, regularidade fiscal, inclusive com a possibilidade de informar quais documentos técnicos obrigatórios de cada classe); • “Intermediário” (Habilitação jurídica e CND Tributos Federais); • “Básico” (Habilitação jurídica); • “Simplificado” (CNPJ); • “Pessoa Física” (RG, CPF, NIT, Qualificação do e-Social e Comprovante de Residência). Figura 6. Grupo de dados obrigatórios para pessoa jurídica. (Passo 5) Caso seja selecionado “Pessoa Física” é necessário preencher os campos “Obrigatórios”: “CPF”, “Nome” e “Tipo de Cadastro: Completo, Intermediário, Pessoa Física ou Simplificado”, “RG” “PIS/PASEP”, após opcionalmente poderá ser preenchido os campos seguintes: “Data de Nascimento”, “Local de Nascimento” e “Profissão”. 8 www.paradigmabs.com.br Figura 7. Grupo de dados obrigatórios para pessoa física. (Passo 6) Abaixo será detalhado o segundo grupo de preenchimento da etapa de “Dados Gerais”, caso seja selecionado a opção de “Tipo de Pessoa: Jurídica”. Figura 8. Segundo grupo de preenchimento dos dados gerais. • “Indicativo de Atividade”: Campo “Obrigatório” que deve ser selecionado o foco da atividade da empresa: “Comércio”, “Indústria” ou “Serviço”. Figura 9. Campo indicativo da atividade dos dados gerais. • “Início da Atividade”: Campo “Obrigatório” que pode ser configurado como deve ser informado a data inicial da atividade na empresa. Figura 10. Campo início da atividade dos dados gerais. 9 www.paradigmabs.com.br • “Capital Integralizado”: Campo que pode ser configurado para “Obrigatório” ou opcional e que deve informar o valor integralizado na empresa. A integralização de capital pode se dar não apenas na forma de investimento de dinheiro, mas também na disposição de bens, como máquinas, automóveis ou imóveis. A integralização de capital deve seguir o que foi anteriormente acordado entre os sócios por meio de documento específico, redigido sob a orientação de um advogado ou profissional de contabilidade. Figura 11. Campo de capital integralizado dos dados gerais. • “Possui assinatura digital”: Caso a empresa possua a “Assinatura Digital” ou Certificação digital é necessário selecionar a opção “Sim” ou “Não”. Figura 12. Campo possui assinatura digital. • “LC 123/06?”: É necessário selecionar “Sim” ou “Não”, caso a empresa se enquadre dentro da lei 123/06 (A empresa está registrada como microempresa ou empresa de pequeno porte). Figura 13. Campo lei 123/06 dos dados gerais • “Patrimônio Líquido”: O “Patrimônio Líquido” ou Capital Próprio representa os valores que os sócios ou acionistas têm na empresa em um determinado momento, sendo um campo opcional para ser preenchido. • “Data de Integralização”: Campo que pode ser configurado como “Obrigatório” ou opcional e que deve informar a “Data de Integralização”, isso significa que houve, por meio do contrato social ou de uma assembleia geral extraordinária, a promessa de integralização de capitais em uma determinada data. A partir do momento que esse capital subscrito é efetivamente integralizado, ele passa a ser chamado de capital integralizado. Figura 14. Campo de data de integralização dos dados gerais. 10 www.paradigmabs.com.br (Passo 7) Após ser inserido os dados dos blocos “Geral”, “Dados Complementares”, “Endereço” e “Contato” da etapa de “Dados Gerais”. Deve-se clicar no botão “Continuar” para seguir com as seguintes etapas do cadastro. Figura 15. Tela de cadastro de dados complementares e endereço dos dados gerais. NOTA 1 : Toda os blocos de cadastro citados se fazem necessário preencher os dados “Obrigatórios” para continuar os cadastros nas próximas etapas. NOTA 2 : No Campo “CEP” , ele faz validação de CEP junto aos correios, trazendo informações como logradouro, bairro, município e estado, facilitando o preenchimento e garantindo as informações digitadas. Essa atualização está disponível somente a partir da versão 7.43 e essa funcionalidade somente poderá ser aplicada para cliente que possuem contrato com os correios e acesso a consulta de CEP. Figura 16. Função para continuar para a próxima etapa de cadastro externo. (Passo 8) Logo após o preenchimento da etapa “Dados Gerais” deve-se clicar na opção “Continuar”, o usuário da empresa fornecedora receberá um protocolo, para que possa realizar eventuais pesquisas na “Consulta de Protocolo”. 11 www.paradigmabs.com.br Figura 17. Recebimento de protocolo por e-mail.

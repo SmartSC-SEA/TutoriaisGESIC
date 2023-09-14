@@ -8,7 +8,7 @@ Na data e hora agendados para início do processo, a situação do pregão eletr
 * Selecionar no campo <mark style="color:red;">**“Exibir”**</mark>, a opção “Pregões eletrônicos em andamento”.&#x20;
 * Acessar o processo do pregão eletrônico em andamento, para o qual será realizado o acompanhamento, clicando no link do campo **“Nº do processo”.**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Na área que apresenta o resumo do pregão, o usuário pode ver:**&#x20;
 
@@ -17,7 +17,7 @@ Na data e hora agendados para início do processo, a situação do pregão eletr
 * Quantidade de propostas canceladas;&#x20;
 * Impugnações registradas contra o edital, bem como sua situação: sem parecer, deferido ou indeferido.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 O sistema permite realizar uma série de intervenções no processo do pregão eletrônico, quais sejam:&#x20;
 
@@ -32,7 +32,7 @@ Cada uma destas funções pode ser encontrada no painel de controle da tela de a
 
 **NOTA**: É importante observar que estas funcionalidades variam, de acordo com a etapa do processo.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Observação sobre mensagem de ALERTA para usuário fornecedor durante envio de proposta para itens/lotes de cotas.**&#x20;
 
