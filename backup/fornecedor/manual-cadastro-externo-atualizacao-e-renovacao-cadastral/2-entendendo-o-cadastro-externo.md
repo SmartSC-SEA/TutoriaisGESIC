@@ -42,8 +42,6 @@ Acesse o site [https://e-lic.sc.gov.br/](https://e-lic.sc.gov.br/) para iniciar 
 
 (Passo 1) Os “Dados Gerais” são informações básicas do cadastro da empresa fornecedora. Ao selecionar a opção “Iniciar Novo Cadastro de Fornecedor”, deve-se preencher os dados da empresa, sendo que os campos com destaque em vermelho são campos “Obrigatórios” solicitados pela empresa compradora, e de importância para análise de seu cadastro.
 
-&#x20;**NOTA:** No módulo de Cadastro de fornecedor é possível configurar para salvar as informações digitadas pelo fornecedor em “caixa alta”, padronizando o cadastro.&#x20;
-
 
 
 <figure><img src="../../.gitbook/assets/Capturar11.JPG" alt=""><figcaption></figcaption></figure>
