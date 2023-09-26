@@ -1,6 +1,8 @@
 # 2 - Entendendo o Cadastro Externo
 
-O objetivo do “Cadastro Externo” é proporcionar que efetue cadastro no Portal, do qual as empresas fornecedoras deverão incluir suas informações, visando participar de processos de compras mediante análise dos dados pela empresa compradora. Para isso as principais atividades ou funcionalidades para o fornecedor serão divididas e detalhadas nos seguintes tópicos:
+O objetivo do “Cadastro Externo” é proporcionar que se efetue cadastro on-line e emita o Certificado de Cadastro de Fornecedores do Estado de Santa Catarina. Este documento além de servir como susbstituto do credenciamento em licitações na modalidade Pregão na forma eletrônica, também pode ser apresentado em processos presenciais substituindo os documentos nele constantes, quando solicitados no edital. As pessoas físicas e jurídicas (fornecedores) deverão incluir suas informações, visando participar de processos de compras no Estado, solicitando a análise e homologação dos dados pela comissão de Cadastro de Fornecedores.
+
+Para isso as principais atividades ou funcionalidades para o fornecedor serão divididas e detalhadas nos seguintes tópicos:
 
 2.1. Funcionalidades da Tela Inicial de Cadastro&#x20;
 
