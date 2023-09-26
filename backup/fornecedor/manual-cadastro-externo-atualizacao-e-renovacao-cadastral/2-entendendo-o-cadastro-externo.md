@@ -1,6 +1,6 @@
 # 2 - Entendendo o Cadastro Externo
 
-O objetivo do “Cadastro Externo” é proporcionar que efetue cadastro no Portal, do qual as empresas fornecedoras deverão incluir suas informações, visando participar de processos de compras mediante análise dos dados pela empresa compradora. Para isso as principais atividades ou funcionalidades para o fornecedor serão divididas e detalhadas nos seguintes tópicos: 2.1. Funcionalidades
+O objetivo do “Cadastro Externo” é proporcionar que efetue cadastro no Portal, do qual as empresas fornecedoras deverão incluir suas informações, visando participar de processos de compras mediante análise dos dados pela empresa compradora. Para isso as principais atividades ou funcionalidades para o fornecedor serão divididas e detalhadas nos seguintes tópicos:
 
 2.1. Funcionalidades da Tela Inicial de Cadastro&#x20;
 
@@ -26,27 +26,23 @@ O objetivo do “Cadastro Externo” é proporcionar que efetue cadastro no Port
 
 
 
-Acesse o site [https://e-lic.sc.gov.br/](https://e-lic.sc.gov.br/) para iniciar o seu cadastro no Portal de Compras. Deve-se clicar na opção “Cadastro”.
-
-
-
-<figure><img src="../../.gitbook/assets/Capturar1.JPG" alt=""><figcaption></figcaption></figure>
-
 ### 2.1. Funcionalidades da Tela Inicial de Cadastro&#x20;
 
-(Passo 1) Ao acessar a tela de “Cadastro” abrirá a tela que permite verificar as ações: “Iniciar Novo Cadastro de Fornecedor”, “Consultar Protocolo” e “Esqueci meu protocolo”:
+Acesse o site [https://e-lic.sc.gov.br/](https://e-lic.sc.gov.br/) para iniciar o seu cadastro no Portal de Compras.
 
-<figure><img src="../../.gitbook/assets/Capturar10.JPG" alt=""><figcaption></figcaption></figure>
+Clique no menu “Cadastro”  do qual abrirá a tela que permite verificar as ações: “Iniciar Novo Cadastro de Fornecedor”, “Consultar Protocolo” e “Esqueci meu protocolo”:
 
-### 2.2. Cadastrando a Etapa de Dados Gerais
+<figure><img src="../../.gitbook/assets/Capturar (4).JPG" alt=""><figcaption></figcaption></figure>
 
-(Passo 1) Os “Dados Gerais” são informações básicas do cadastro da empresa fornecedora. Ao selecionar a opção “Iniciar Novo Cadastro de Fornecedor”, deve-se preencher os dados da empresa, sendo que os campos com destaque em vermelho são campos “Obrigatórios” solicitados pela empresa compradora, e de importância para análise de seu cadastro.
+### 2.1. Iniciar Novo Cadastro de Fornecedor
 
+(Passo 1)  “Dados Gerais”&#x20;
 
+São informações básicas do cadastro da empresa fornecedora. Deve-se preencher os dados da empresa, sendo que os campos com destaque em vermelho são campos “Obrigatórios”.
 
 <figure><img src="../../.gitbook/assets/Capturar11.JPG" alt=""><figcaption></figcaption></figure>
 
-&#x20;(Passo 2) Para os casos em que a empresa já seja fornecedora do portal de compras, o sistema não permitirá um novo cadastro. Nessa situação já existe um cadastro homologado e não será possível fazer um novo cadastro, apenas de realizar as funções de “Atualização Cadastral” ou “Renovação Cadastral”.
+Para os casos em que a empresa já seja fornecedora do portal de compras, o sistema não permitirá um novo cadastro. Nessa situação já existe um cadastro homologado e não será possível fazer um novo cadastro, apenas de realizar as funções de “Atualização Cadastral” ou “Renovação Cadastral”.
 
 \
 
@@ -60,11 +56,9 @@ Figura 4. Mensagem de alerta caso o CNPJ já seja cadastrado no portal
 
 <figure><img src="../../.gitbook/assets/Capturar.JPG" alt=""><figcaption></figcaption></figure>
 
-(Passo 4) Caso seja selecionado “Pessoa Física” é necessário preencher os campos “Obrigatórios”: “CPF”, “Nome” e “Tipo de Cadastro: Completo e Simplificado”, após opcionalmente poderá ser preenchido os campos seguintes: “Data de Nascimento”, “Local de Nascimento”, “RG”, “Profissão” e “PIS/PASEP”.
+(Passo 5) Abaixo será detalhado o segundo grupo de preenchimento da etapa de “Dados Gerais”, caso seja selecionado a opção de “Tipo de Pessoa: Jurídica”.
 
-<figure><img src="../../.gitbook/assets/Capturar (2).JPG" alt=""><figcaption></figcaption></figure>
 
-&#x20;(Passo 5) Caso seja selecionado “Pessoa Física” é necessário preencher os campos “Obrigatórios”: “CPF”, “Nome” e “Tipo de Cadastro: Completo, Intermediário, Pessoa Física ou Simplificado”, “RG” “PIS/PASEP”, após opcionalmente poderá ser preenchido os campos seguintes: “Data de Nascimento”, “Local de Nascimento” e “Profissão”.
 
 &#x20;
 
