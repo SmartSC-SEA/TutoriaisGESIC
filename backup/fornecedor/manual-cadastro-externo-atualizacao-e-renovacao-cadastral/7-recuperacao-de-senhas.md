@@ -1,4 +1,4 @@
-# 7 - Encerramento da Disputa de Lances no Pregão Eletrônico
+# 7 - Recuperação de senhas
 
 * **Passo 01:** Clicar no botão <mark style="color:red;">**“Encerrar disputa”**</mark> e o sistema apresentará a tela para registro da justificativa.&#x20;
 * **Passo 02:** Informar no campo <mark style="color:red;">**“Justificativa”**</mark>, o motivo para encerrar a etapa de disputa de lances.&#x20;

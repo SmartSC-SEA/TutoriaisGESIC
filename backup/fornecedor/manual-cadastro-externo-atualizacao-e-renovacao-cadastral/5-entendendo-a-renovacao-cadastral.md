@@ -1,4 +1,4 @@
-# 5 - Disputa de Lances no Pregão Eletrônico
+# 5 - Entendendo a Renovação Cadastral
 
 Analisadas as propostas dos fornecedores, o Pregoeiro dará início à disputa de lances. Para tanto, deverá executar os passos descritos a seguir:&#x20;
 

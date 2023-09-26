@@ -1,4 +1,4 @@
-# 6 - Autoencerramento do Pregão Eletrônico
+# 6 - Acesso ao Portal
 
 O Pregoeiro poderá encerrar a etapa de disputa de lances, acionando o botão de comando autoencerramento. O processo de autoencerramento será encerrado em até 30 minutos. Para tanto, deverá executar os passos descritos a seguir:
 

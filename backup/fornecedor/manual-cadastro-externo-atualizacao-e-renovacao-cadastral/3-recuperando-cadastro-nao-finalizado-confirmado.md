@@ -1,4 +1,4 @@
-# 3 - Pregão Eletrônico deserto
+# 3 - Recuperando cadastro não Finalizado/Confirmado
 
 O pregão eletrônico é considerado deserto quando não tiver sido enviada nenhuma proposta por parte dos fornecedores, na etapa de recebimento de propostas.&#x20;
 

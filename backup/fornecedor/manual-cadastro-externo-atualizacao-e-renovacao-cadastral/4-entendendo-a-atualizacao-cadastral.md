@@ -1,4 +1,4 @@
-# 4 - Abertura de Propostas no Pregão Eletrônico
+# 4 - Entendendo a Atualização Cadastral
 
 ### 4 - Abertura de Propostas no Pregão Eletrônico
 

@@ -1,4 +1,4 @@
-# 8 - Negociação / Habilitação / Aceitabilidade
+# 8 - Usuário bloqueado ou inativo
 
 Encerrada a etapa de disputa de lances, o Pregoeiro deverá abrir os itens para negociação, junto ao(s) fornecedor(es) melhores colocados do processo. Neste momento, o sistema realizará a aplicação da Lei 123/2006.&#x20;
 

@@ -4,5 +4,5 @@ description: >-
   cadastro, atualização e renovação cadastral.
 ---
 
-# Manual Cadastro Externo Atualização e Renovação Cadastral
+# Manual do Fornecedor
 
