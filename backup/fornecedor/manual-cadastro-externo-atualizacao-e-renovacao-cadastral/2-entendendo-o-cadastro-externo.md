@@ -60,8 +60,6 @@ A segunda etapa do cadastro contempla a opção de “Representantes e sócios�
 
 Após salvar os dados ficará registrado na tela abaixo, podendo “Excluir” caso seja necessário ou editar novamente clicando em cima do “Nome” do cadastro. Neste momento já é possível voltar para “Dados Gerais”.
 
-
-
 <figure><img src="../../.gitbook/assets/Capturar (8).JPG" alt=""><figcaption></figcaption></figure>
 
 **(Passo 3) "Contatos"**
@@ -74,11 +72,15 @@ Na próxima etapa temos o preenchimento dos “Dados bancários”, em que se de
 
 <figure><img src="../../.gitbook/assets/Capturar (9).JPG" alt=""><figcaption></figcaption></figure>
 
+**(Passo 5) "Linha de Fornecimento" (Grupo/Classe)**
 
+A etapa de “Linha de fornecimento” **é de grande importância**, pois informa qual(is) atividade(s)econômica(s) exerce(m).&#x20;
 
+Sendo que, a partir do preenchimento correto, quando o órgão executor elaborar um processo de compra a empresa fornecedora será informada via alerta de e-mail que sua empresa está convocada a participar da licitação, de acordo com a sua linha de fornecimento (Grupo(s)-Classe(s)).&#x20;
 
+Nessa situação deve-se selecionar a “Linha de fornecimento” que ficará gravado no campo abaixo de “Itens selecionados”, podendo “Pesquisar” categorias desejadas. Ao final deve-se clicar no botão “Continuar”.
 
-
+<figure><img src="../../.gitbook/assets/Capturar (11).JPG" alt=""><figcaption></figcaption></figure>
 
 
 
