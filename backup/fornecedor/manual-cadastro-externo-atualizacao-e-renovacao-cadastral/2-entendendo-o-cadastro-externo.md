@@ -82,6 +82,20 @@ Nessa situação deve-se selecionar a “Linha de fornecimento” que ficará gr
 
 <figure><img src="../../.gitbook/assets/Capturar (11).JPG" alt=""><figcaption></figcaption></figure>
 
+* “Importante”: O “Grupo-Classe” ou linha de fornecimento é analisada com base no objeto social da empresa e na seleção realizada no Sistema. A Comissão de Cadatro de Fornecedores (SUCAFO) analisará podendo deferir ou não as seleções. O fornecedor somente receberá aviso e visualizará processos eletrônicos nos quais ele está habilitado a fornecer, neste caso, enviar proposta.
+
+**(Passo 6) "Documentos"**&#x20;
+
+Na tela de “Documentos”, a empresa fornecedora necessita seguir a exigência de documentos solicitados pela empresa compradora, para que tenha então seu cadastro homologado, e possa participar de processos de compra.
+
+Haverá documentos em que a inclusão de anexos será necessária, dessa forma o portal disponibiliza esta opção ao clicar no ícone clips . Em seguida poderá realizar a busca de seu documento para inclusão, ao selecioná-lo para anexo, o ícone terá uma mudança de situação indicado pela cor azul .
+
+Assim é necessário preencher todos os campos “Obrigatórios”, indicados pela cor vermelha, com o “Número” do documento e a sua data de “Validade”, devendo clicar em “Continuar” na finalização de configuração. Neste exemplo, a Comissão de Cadastro de Fornecedores irá verificar as informações e posteriormente a análise documental.
+
+<figure><img src="../../.gitbook/assets/Capturar (12).JPG" alt=""><figcaption></figcaption></figure>
+
+
+
 
 
 Para os casos em que a empresa já seja fornecedora do portal de compras, o sistema não permitirá um novo cadastro. Nessa situação já existe um cadastro homologado e não será possível fazer um novo cadastro, apenas de realizar as funções de “Atualização Cadastral” ou “Renovação Cadastral”.
