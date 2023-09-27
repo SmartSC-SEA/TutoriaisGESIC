@@ -36,7 +36,7 @@ Clique no menu “Cadastro”  do qual abrirá a tela que permite verificar as a
 
 <figure><img src="../../.gitbook/assets/Capturar (4).JPG" alt=""><figcaption></figcaption></figure>
 
-### 2.1. Iniciar Novo Cadastro de Fornecedor
+### 2.2. Iniciar Novo Cadastro de Fornecedor
 
 **(Passo 1)  “Dados Gerais”**&#x20;
 
