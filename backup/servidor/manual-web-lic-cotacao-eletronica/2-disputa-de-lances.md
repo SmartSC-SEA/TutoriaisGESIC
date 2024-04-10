@@ -1,8 +1,8 @@
-# 2 - Recebimento de Propostas no Pregão Eletrônico
+# 2 - Disputa de Lances
 
-Na data e hora agendados para início do processo, a situação do pregão eletrônico será alterada para “Em recebimento de propostas”, permitindo ao Pregoeiro acompanhar o envio das propostas dos fornecedores.&#x20;
+Na data e hora agendados para início do processo, a situação da cotação será alterada para “Em disputa”, permitindo ao Agente de contratação acompanhar o envio das propostas dos fornecedores.&#x20;
 
-**Para acompanhar o pregão eletrônico, o Pregoeiro deverá executar os passos descritos a seguir:**&#x20;
+**Os fornecedores possuem o prazo estipulado para apresentar quantos lances quiserem**
 
 * Acessar o menu **Negociação-> Pregão Eletrônico-> **<mark style="color:red;">**“Lista de pregões eletrônicos”**</mark>. O sistema exibirá a lista de todos os pregões eletrônicos cadastrados pelos pregoeiros da unidade gestora.&#x20;
 * Selecionar no campo <mark style="color:red;">**“Exibir”**</mark>, a opção “Pregões eletrônicos em andamento”.&#x20;
