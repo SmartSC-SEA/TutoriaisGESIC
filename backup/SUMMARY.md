@@ -23,7 +23,7 @@
   * [18 - Legenda das situações do Pregão Eletrônico](servidor/manual-do-pregoeiro/18-legenda-das-situacoes-do-pregao-eletronico.md)
 * [Manual Web-Lic - Cotação Eletrônica](servidor/manual-web-lic-cotacao-eletronica/README.md)
   * [1 - Acessar o sistema](servidor/manual-web-lic-cotacao-eletronica/1-acessar-o-sistema-e-lic.md)
-  * [2 - Recebimento de Propostas no Pregão Eletrônico](servidor/manual-web-lic-cotacao-eletronica/2-recebimento-de-propostas-no-pregao-eletronico.md)
+  * [2 - Recebimento de Propostas](servidor/manual-web-lic-cotacao-eletronica/2-recebimento-de-propostas.md)
   * [3 - Pregão Eletrônico deserto](servidor/manual-web-lic-cotacao-eletronica/3-pregao-eletronico-deserto.md)
   * [4 - Abertura de Propostas no Pregão Eletrônico](servidor/manual-web-lic-cotacao-eletronica/4-abertura-de-propostas-no-pregao-eletronico.md)
   * [5 - Disputa de Lances no Pregão Eletrônico](servidor/manual-web-lic-cotacao-eletronica/5-disputa-de-lances-no-pregao-eletronico.md)
