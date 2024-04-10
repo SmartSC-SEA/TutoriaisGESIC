@@ -4,20 +4,20 @@ Na data e hora agendados para início do processo, a situação da cotação ser
 
 **Os fornecedores possuem o prazo estipulado para apresentar quantos lances quiserem**
 
-* Acessar o menu **Negociação-> Pregão Eletrônico-> **<mark style="color:red;">**“Lista de pregões eletrônicos”**</mark>. O sistema exibirá a lista de todos os pregões eletrônicos cadastrados pelos pregoeiros da unidade gestora.&#x20;
-* Selecionar no campo <mark style="color:red;">**“Exibir”**</mark>, a opção “Pregões eletrônicos em andamento”.&#x20;
-* Acessar o processo do pregão eletrônico em andamento, para o qual será realizado o acompanhamento, clicando no link do campo **“Nº do processo”.**
+<div align="left" data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
-**Na área que apresenta o resumo do pregão, o usuário pode ver:**&#x20;
+</div>
+
+**Na área que apresenta o resumo o agente de contratação pode ver:**&#x20;
 
 * Quantidade de propostas recebidas;&#x20;
 * Número de Fornecedores que enviaram propostas;&#x20;
-* Quantidade de propostas canceladas;&#x20;
-* Impugnações registradas contra o edital, bem como sua situação: sem parecer, deferido ou indeferido.
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+
+
+
 
 O sistema permite realizar uma série de intervenções no processo do pregão eletrônico, quais sejam:&#x20;
 
