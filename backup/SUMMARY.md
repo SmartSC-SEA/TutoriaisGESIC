@@ -24,7 +24,7 @@
 * [Manual Web-Lic - Cotação Eletrônica](servidor/manual-web-lic-cotacao-eletronica/README.md)
   * [1 - Acessar o sistema](servidor/manual-web-lic-cotacao-eletronica/1-acessar-o-sistema-e-lic.md)
   * [2 - Disputa de Lances](servidor/manual-web-lic-cotacao-eletronica/2-disputa-de-lances.md)
-  * [3 - Pregão Eletrônico deserto](servidor/manual-web-lic-cotacao-eletronica/3-pregao-eletronico-deserto.md)
+  * [3 - Inativar um Lance](servidor/manual-web-lic-cotacao-eletronica/3-inativar-um-lance.md)
   * [7 - Encerramento da Disputa de Lances no Pregão Eletrônico](servidor/manual-web-lic-cotacao-eletronica/7-encerramento-da-disputa-de-lances-no-pregao-eletronico.md)
   * [8 - Negociação / Habilitação / Aceitabilidade](servidor/manual-web-lic-cotacao-eletronica/8-negociacao-habilitacao-aceitabilidade.md)
   * [9 - Habilitar o Fornecedor](servidor/manual-web-lic-cotacao-eletronica/9-habilitar-o-fornecedor.md)
