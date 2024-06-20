@@ -4,7 +4,7 @@ Encerrada a etapa de negociação com os fornecedores, o sistema entrará na eta
 
 O sistema iniciará a contagem do tempo para que os fornecedores efetuem o registro das intenções de recursos, quando necessário, conforme demonstrado na figura a seguir:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nesta etapa, caso haja intenção, o Pregoeiro poderá fazer uma triagem, identificando eventuais recursos sem fundamento que visam somente atrasar o processo licitatório. À medida em que as intenções de recursos são registradas no sistema pelos fornecedores, o Pregoeiro poderá visualizá-las na tela, conforme demonstrado na figura abaixo:
 

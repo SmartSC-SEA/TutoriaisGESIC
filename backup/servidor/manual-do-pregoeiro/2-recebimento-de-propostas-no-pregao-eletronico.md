@@ -17,7 +17,7 @@ Na data e hora agendados para início do processo, a situação do pregão eletr
 * Quantidade de propostas canceladas;&#x20;
 * Impugnações registradas contra o edital, bem como sua situação: sem parecer, deferido ou indeferido.
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 O sistema permite realizar uma série de intervenções no processo do pregão eletrônico, quais sejam:&#x20;
 
