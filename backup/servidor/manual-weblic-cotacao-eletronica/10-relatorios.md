@@ -1,6 +1,6 @@
 # 10 - Relatórios
 
-A adA situação do pregão eletrônico será alterada para “Aguardando homologação”.
+Assim que encerrar a negociação será possível salvar relatórios como o Resultado da licitação para publicação no diário oficial, chat da negociação entre outros.
 
 
 
