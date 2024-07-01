@@ -8,20 +8,13 @@ Encerrada a etapa de negociação o agente de contratação deverá analisar a *
 
 2. Em seguida clicar no botão **" Encerrar negociação"**
 
-Para abrir os itens, o Pregoeiro deverá executar os passos descritos a seguir:
 
-* **Passo 01:** Selecionar o(s) item(ns) que será(ão) aberto(s) para negociação, clicando na(s) respectiva(s) caixa(s) de seleção.&#x20;
-* **Passo 02:** Clicar no botão <mark style="color:red;">**“Abrir item”**</mark> e será apresentada a tela para registro da justificativa.&#x20;
-* **Passo 03:** Informar no campo <mark style="color:red;">**“Justificativa”**</mark>, o motivo para abrir os itens.&#x20;
-* **Passo 04:** Clicar no botão <mark style="color:red;">**“Sim”**</mark>.
+
+
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-Ao abrir os itens, o sistema aplicará a Lei 123/2006 que estabelece normas gerais relativas ao tratamento diferenciado e favorecido a ser dispensado às microempresas e empresas de pequeno porte no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios.&#x20;
 
-**NOTA:** Quando o lance de um fornecedor beneficiário da lei LC 123/2006 estiver dentro do percentual permitido para sua aplicação (margem dos 5% do empate fícto), e o fornecedor vencedor não for beneficiário da lei, o sistema apresentará uma mensagem de alerta. Esta mensagem informará ao vencedor que existe um lance dentro do percentual permitido que poderá ser superado, quando a lei LC 123/2006 for aplicada.&#x20;
-
-O sistema apresentará os itens abertos para realização da negociação/habilitação/aceitabilidade.
 
 ### 8.1 Invalidar um lance
 

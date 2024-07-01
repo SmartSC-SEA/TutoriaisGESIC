@@ -1,10 +1,6 @@
 # 14 - Retornar à Negociação no Pregão Eletrônico
 
-Na etapa de Adjudicação do pregão eletrônico, o sistema possibilitará à Autoridade competente retornar o processo para negociação, quando necessário.&#x20;
-
-Para tanto o processo à etapa de Negociação, a Autoridade competente deverá executar os passos descritos a seguir:
-
-* Passo 01: Clicar no botão “Retornar à negociação” para retornar o processo à etapa de negociação.
+Após encerrada a negociação não é possível reabrir a negociação pelo o usuário do sistema. O usuário deverá enviar um e-mail para gesic@sea.sc.gov.br solicitando a reabertura através de&#x20;
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
