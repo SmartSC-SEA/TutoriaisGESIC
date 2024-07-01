@@ -21,5 +21,5 @@ O sistema permite realizar uma série de intervenções no processo , quais seja
 * Revogar os itens;&#x20;
 * Prorrogar a disputa;&#x20;
 
-
+{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&index=2&list=PLCz2tZGaBnpXjRHlHEK_Ey6zOlaqwjgjo&v=G8RkWwumtLE" %}
 
