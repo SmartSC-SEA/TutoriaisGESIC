@@ -12,36 +12,17 @@ Encerrada a etapa de negociação o agente de contratação deverá analisar a *
 
 
 
+A dispensa aparecerá no status - Finalizada
+
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 
 
+###
 
-### 8.1 Invalidar um lance
 
-Ao realizar a análise, o Pregoeiro poderá invalidar um lance que considerar inexequível, bem como validar um lance anteriormente invalidado.&#x20;
 
-Para invalidar o lance, o Pregoeiro deverá executar os passos descritos a seguir:
-
-* **Passo 01:** Clicar no ícone <mark style="color:red;">**“Lances deste item”**</mark> e o sistema apresentará a tela para analisar os lances enviados pelos fornecedores.
-
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
-
-* **Passo 02:** Desclassificar o lance que considerar inexequível, clicando no ícone <mark style="color:red;">**“Clique aqui para invalidar o lance”**</mark> na respectiva linha de registro.&#x20;
-* **Passo 03:** Informar no campo <mark style="color:red;">**“Justificativa”**</mark> o motivo que deu ensejo à invalidação do lance.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
-
-A situação do lance será alterada para “Lance inválido“, conforme demonstrado na figura abaixo:
-
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
-
-### 8.2 Validar um lance
-
-O Pregoeiro poderá validar o lance invalidado, executando os passos descritos a seguir:
-
-* **Passo 01:** Clicar no ícone <mark style="color:red;">**“Lances deste item”**</mark> e o sistema apresentará a tela para analisar os lances enviados pelos fornecedores.
-
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+###
 
 * **Passo 02:** Validar o lance invalidado, clicando no ícone <mark style="color:red;">**“Clique aqui para validar o lance”**</mark> na respectiva linha de registro. O sistema apresentará a tela para registro da justificativa.&#x20;
 * **Passo 03:** Informar no campo <mark style="color:red;">**“Justificativa”**</mark> o motivo que deu ensejo à validação do lance anteriormente invalidado.&#x20;
