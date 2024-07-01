@@ -1,6 +1,12 @@
-# 8 - Negociação / Habilitação / Aceitabilidade
+# 8 - Habilitação / Aceitabilidade
 
-Encerrada a etapa de disputa de lances, o Pregoeiro deverá abrir os itens para negociação, junto ao(s) fornecedor(es) melhores colocados do processo. Neste momento, o sistema realizará a aplicação da Lei 123/2006.&#x20;
+Encerrada a etapa de negociação o agente de contratação deverá analisar a **documentação, valores, aceitabilidade**. Somente tudo de acordo, o agente deverá:
+
+1. Selecionar os itens e clicar em **"Encerrar itens Selecionados"**
+
+<figure><img src="../../.gitbook/assets/Capturar (13).JPG" alt=""><figcaption></figcaption></figure>
+
+2. Em seguida clicar no botão **" Encerrar negociação"**
 
 Para abrir os itens, o Pregoeiro deverá executar os passos descritos a seguir:
 
