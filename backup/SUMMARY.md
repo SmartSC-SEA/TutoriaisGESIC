@@ -26,7 +26,7 @@
   * [2 - Disputa de Lances](servidor/manual-web-lic-cotacao-eletronica/2-disputa-de-lances.md)
   * [3 - Desclassificar um Lance](servidor/manual-web-lic-cotacao-eletronica/3-desclassificar-um-lance.md)
   * [7 - Encerramento da Disputa de Lances - Abrir os itens para negociação](servidor/manual-web-lic-cotacao-eletronica/7-encerramento-da-disputa-de-lances-no-pregao-eletronico.md)
-  * [8 - Habilitação / Aceitabilidade](servidor/manual-web-lic-cotacao-eletronica/8-habilitacao-aceitabilidade.md)
+  * [8 - Habilitação/Encerrar a etapa de negociação](servidor/manual-web-lic-cotacao-eletronica/8-habilitacao-encerrar-a-etapa-de-negociacao.md)
   * [9 - Habilitar o Fornecedor](servidor/manual-web-lic-cotacao-eletronica/9-habilitar-o-fornecedor.md)
   * [10 - Encerrar a Etapa de Negociação](servidor/manual-web-lic-cotacao-eletronica/10-encerrar-a-etapa-de-negociacao.md)
   * [11 - Intenção de Recursos](servidor/manual-web-lic-cotacao-eletronica/11-intencao-de-recursos.md)

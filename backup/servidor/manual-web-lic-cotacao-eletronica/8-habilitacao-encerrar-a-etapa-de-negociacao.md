@@ -1,4 +1,4 @@
-# 8 - Habilitação / Aceitabilidade
+# 8 - Habilitação/Encerrar a etapa de negociação
 
 Encerrada a etapa de negociação o agente de contratação deverá analisar a **documentação, valores, aceitabilidade**. Somente tudo de acordo, o agente deverá:
 
@@ -8,11 +8,11 @@ Encerrada a etapa de negociação o agente de contratação deverá analisar a *
 
 2. Em seguida clicar no botão **" Encerrar negociação"**
 
+<mark style="color:red;">**ATENÇÃO!**</mark> Após o encerramento da negociação, os itens não poderão ser reabertos.
 
 
 
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 
 
