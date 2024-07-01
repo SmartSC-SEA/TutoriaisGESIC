@@ -18,6 +18,9 @@ Para revogar o certame, o agente de contratação deverá executar, antes de hom
 <figure><img src="../../.gitbook/assets/Capturar (15).JPG" alt=""><figcaption></figcaption></figure>
 
 * **Passo 03:** Digitar a justificativa com no mínimo 10 caracteres e Clicar no botão <mark style="color:red;">**“Revogar”**</mark> para confirmar a operação.&#x20;
-* **Passo 04:** Clicar no botão <mark style="color:red;">**“OK”**</mark>.
 
-![](<../../.gitbook/assets/image (28).png>)
+Após a confirmação o status passará para <mark style="color:red;">**"REVOGADO"**</mark>
+
+
+
+<figure><img src="../../.gitbook/assets/Capturar (16).JPG" alt=""><figcaption></figcaption></figure>
