@@ -1,12 +1,8 @@
-# 16 - Revogar o Pregão Eletrônico
+# 11 - Revogar a Cotação Eletrônica
 
 Entre as prerrogativas da Administração Pública, há a possibilidade de revogar atos que não sejam mais convenientes e oportunos para o atendimento do interesse público.&#x20;
 
-
-
 Para revogar o certame, o agente de contratação deverá executar, antes de homologar o processo, os passos a seguir:
-
-
 
 <figure><img src="../../.gitbook/assets/Capturar (14).JPG" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +16,5 @@ Para revogar o certame, o agente de contratação deverá executar, antes de hom
 * **Passo 03:** Digitar a justificativa com no mínimo 10 caracteres e Clicar no botão <mark style="color:red;">**“Revogar”**</mark> para confirmar a operação.&#x20;
 
 Após a confirmação o status passará para <mark style="color:red;">**"REVOGADO"**</mark>
-
-
 
 <figure><img src="../../.gitbook/assets/Capturar (16).JPG" alt=""><figcaption></figcaption></figure>

@@ -1,4 +1,4 @@
-# 12 - Ajuste de Preços Lotes
+# 9 - Ajuste de Preços Lotes
 
 Quando a cotação eletrônica for realizado com itens em lotes, o fornecedor deverá realizar o ajuste dos preços dos itens que compõe o lote do lance vencedor, antes da etapa de encerramento da negociação.&#x20;
 
