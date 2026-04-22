@@ -1,7 +1,3 @@
----
-description: descrição temporário
----
-
 # 1 - Acessar o sistema E-LIC
 
 Para acessar o sistema E-LIC, o usuário deverá executar os passos descritos a seguir:&#x20;
