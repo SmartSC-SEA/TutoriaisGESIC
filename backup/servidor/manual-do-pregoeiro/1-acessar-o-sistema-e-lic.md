@@ -2,7 +2,7 @@
 
 Para acessar o sistema E-LIC, o usuário deverá executar os passos descritos a seguir:&#x20;
 
-**Passo 10:** Acessar o site através do endereço: e-lic.sc.gov.br/Default.aspx;&#x20;
+**Passo 01:** Acessar o site através do endereço: e-lic.sc.gov.br/Default.aspx;&#x20;
 
 **Passo 02:** Informar o login e a respectiva senha de acesso;&#x20;
 
