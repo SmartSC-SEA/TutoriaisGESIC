@@ -14,6 +14,3 @@ Para acessar o sistema E-LIC, o usuário deverá executar os passos descritos a 
 
 **Passo 04:** Clicar no botão <mark style="color:red;">**“Entrar”**</mark>.
 
-
-
-{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=uRwxY6c7YUo" %}
