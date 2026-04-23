@@ -1,4 +1,4 @@
-# 8 - Habilitação/Encerrar a etapa de negociação
+# 5 - Habilitação/Encerrar a etapa de negociação
 
 Encerrada a etapa de negociação o agente de contratação deverá analisar a **documentação, valores, aceitabilidade**. Somente tudo de acordo, o agente deverá:
 
@@ -30,5 +30,5 @@ A dispensa aparecerá no status - Finalizada
 
 
 
-### &#x20;
+### <br>
 

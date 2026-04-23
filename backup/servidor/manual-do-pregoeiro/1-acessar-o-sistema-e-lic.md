@@ -2,20 +2,18 @@
 
 Para acessar o sistema E-LIC, o usuário deverá executar os passos descritos a seguir:&#x20;
 
-**Passo 01:** Acessar o site através do endereço: e-lic.sc.gov.br/Default.aspx;&#x20;
+**Passo 01:** Acessar o site através do endereço: [e-lic.sc.gov.br/Default.aspx](https://e-lic.sc.gov.br/Default.aspx);&#x20;
 
-**Passo 02:** Informar o login e a respectiva senha de acesso;&#x20;
+**Passo 02:** Clique no botão Acessar
 
-**Passo 03:** Em seguida, informar as letras e/ou números que aparecem no CAPTCHA;&#x20;
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
-**Obs.:** O uso do captcha visa a prevenção de spam e ataques de bots maliciosos, ampliando a segurança da aplicação web;&#x20;
+**Passo 03:** Informar o usuário e a respectiva senha de acesso;&#x20;
 
-**Passo 04:** Clicar no botão <mark style="color:red;">**“Acessar”**</mark>.
+<div align="left"><figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+**Passo 04:** Clicar no botão <mark style="color:red;">**“Entrar”**</mark>.
 
-{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=NLJA4Njqszg" %}
 
-{% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=RbyC16IBMWI" %}
 
 {% embed url="https://www.youtube.com/watch?ab_channel=DiretoriadeGest%C3%A3odeLicita%C3%A7%C3%B5eseContratos&v=uRwxY6c7YUo" %}

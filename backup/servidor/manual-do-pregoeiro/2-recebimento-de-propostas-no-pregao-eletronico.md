@@ -4,7 +4,7 @@ Na data e hora agendados para início do processo, a situação do pregão eletr
 
 **Para acompanhar o pregão eletrônico, o Pregoeiro deverá executar os passos descritos a seguir:**&#x20;
 
-* Acessar o menu **Negociação-> Pregão Eletrônico-> **<mark style="color:red;">**“Lista de pregões eletrônicos”**</mark>. O sistema exibirá a lista de todos os pregões eletrônicos cadastrados pelos pregoeiros da unidade gestora.&#x20;
+* Acessar o menu **Negociação-> Pregão Eletrônico->&#x20;**<mark style="color:red;">**“Lista de pregões eletrônicos”**</mark>. O sistema exibirá a lista de todos os pregões eletrônicos cadastrados pelos pregoeiros da unidade gestora.&#x20;
 * Selecionar no campo <mark style="color:red;">**“Exibir”**</mark>, a opção “Pregões eletrônicos em andamento”.&#x20;
 * Acessar o processo do pregão eletrônico em andamento, para o qual será realizado o acompanhamento, clicando no link do campo **“Nº do processo”.**
 

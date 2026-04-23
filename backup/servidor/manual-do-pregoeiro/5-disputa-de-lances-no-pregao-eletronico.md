@@ -2,7 +2,7 @@
 
 Analisadas as propostas dos fornecedores, o Pregoeiro dará início à disputa de lances. Para tanto, deverá executar os passos descritos a seguir:&#x20;
 
-* **Passo 01:** Acessar o menu **Negociação-> Pregão Eletrônico-> **<mark style="color:red;">**“Lista de pregões eletrônicos”.**</mark>&#x20;
+* **Passo 01:** Acessar o menu **Negociação-> Pregão Eletrônico->&#x20;**<mark style="color:red;">**“Lista de pregões eletrônicos”.**</mark>&#x20;
 * **Passo 02:** Selecionar no campo <mark style="color:red;">**“Exibir”**</mark>, a opção “Pregões eletrônicos em abertura e classificação”.&#x20;
 * **Passo 03:** Acessar o processo do pregão eletrônico, para o qual será realizada a disputa de lances, clicando no seu respectivo link do campo <mark style="color:red;">**“Nº do processo”.**</mark>
 
