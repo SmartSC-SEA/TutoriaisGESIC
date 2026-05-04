@@ -8,7 +8,9 @@ Na data e hora agendados para início do processo, a situação do pregão eletr
 * Selecionar no campo <mark style="color:red;">**“Exibir”**</mark>, a opção “Pregões eletrônicos em andamento”.&#x20;
 * Acessar o processo do pregão eletrônico em andamento, para o qual será realizado o acompanhamento, clicando no link do campo **“Nº do processo”.**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 **Na área que apresenta o resumo do pregão, o usuário pode ver:**&#x20;
 
