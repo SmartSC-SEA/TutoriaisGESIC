@@ -10,6 +10,8 @@ Na data e hora agendados para início do processo, a situação do pregão eletr
 
 <figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 **Na área que apresenta o resumo do pregão, o usuário pode ver:**&#x20;
