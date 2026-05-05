@@ -19,7 +19,7 @@ Na data e hora agendados para início do processo, a situação do pregão eletr
 * Quantidade de propostas canceladas;&#x20;
 * Impugnações registradas contra o edital, bem como sua situação: sem parecer, deferido ou indeferido.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 O sistema permite realizar uma série de intervenções no processo do pregão eletrônico, quais sejam:&#x20;
 
@@ -34,7 +34,7 @@ Cada uma destas funções pode ser encontrada no painel de controle da tela de a
 
 **NOTA**: É importante observar que estas funcionalidades variam, de acordo com a etapa do processo.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 **Observação sobre mensagem de ALERTA para usuário fornecedor durante envio de proposta para itens/lotes de cotas.**&#x20;
 
