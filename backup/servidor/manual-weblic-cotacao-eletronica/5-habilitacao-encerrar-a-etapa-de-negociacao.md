@@ -6,7 +6,9 @@ Encerrada a etapa de negociação o agente de contratação deverá analisar a *
 
 <figure><img src="../../.gitbook/assets/Capturar (13).JPG" alt=""><figcaption></figcaption></figure>
 
-2. Em seguida clicar no botão **" Encerrar negociação"**
+2. Ao encerrar itens selecionados, você ainda pode retornar e abrir os itens selecionados para inabilitar um lance de um fornecedor, ou todos os lances daquele fornecedor, para que possa chamar o segundo colocado. Veja o vídeo abaixo, como reabrir para a negociação.
+3.
+4. Em seguida clicar no botão **" Encerrar negociação"**
 
 <mark style="color:red;">**ATENÇÃO!**</mark> Após o encerramento da negociação, os itens não poderão ser reabertos.
 
