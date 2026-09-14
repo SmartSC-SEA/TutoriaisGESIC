@@ -1,4 +1,4 @@
-# 5 - Habilitação/Encerrar a etapa de negociação
+# Copy of 5 - Habilitação/Encerrar a etapa de negociação
 
 Encerrada a etapa de negociação o agente de contratação deverá analisar a **documentação, valores, aceitabilidade**. Somente tudo de acordo, o agente deverá:
 
