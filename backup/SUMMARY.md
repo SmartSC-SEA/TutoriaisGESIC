@@ -44,7 +44,7 @@
   * [1 - Acessar o sistema](servidor/manual-weblic-cotacao-eletronica/1-acessar-o-sistema.md)
   * [2 - Disputa de Lances](servidor/manual-weblic-cotacao-eletronica/2-disputa-de-lances.md)
   * [3 - Desclassificar um Lance](servidor/manual-weblic-cotacao-eletronica/3-desclassificar-um-lance.md)
-  * [4 - Encerrar Disputa de Lances - Abrir os itens para negociação](servidor/manual-weblic-cotacao-eletronica/4-encerrar-disputa-de-lances-abrir-os-itens-para-negociacao.md)
+  * [4 - Encerrar Disputa e Iniciar Negociação](servidor/manual-weblic-cotacao-eletronica/4-encerrar-disputa-e-iniciar-negociacao.md)
   * [5 - Habilitação, Negociação e Encerramento](servidor/manual-weblic-cotacao-eletronica/5-habilitacao-negociacao-e-encerramento.md)
   * [6 - Ajuste de Preços Lotes](servidor/manual-weblic-cotacao-eletronica/6-ajuste-de-precos-lotes.md)
   * [7 - Relatórios](servidor/manual-weblic-cotacao-eletronica/7-relatorios.md)
