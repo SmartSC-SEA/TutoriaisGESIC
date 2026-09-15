@@ -10,6 +10,8 @@ Encerrada a etapa de negociação o agente de contratação deverá analisar a *
 
 Mesmo após o encerramento dos itens selecionados, é possível reabri-los para **inabilitar um lance de um fornecedor** ou **todos os lances daquele fornecedor** e, assim, convocar o próximo colocado. Veja no vídeo abaixo como **reabrir os itens e realizar uma nova negociação.**
 
+{% embed url="https://youtu.be/4LEt8r79ljM" %}
+
 
 
 **Encerrar a Negociação** ![](<../../.gitbook/assets/image (81).png>)
