@@ -6,19 +6,21 @@ Encerrada a etapa de negociação o agente de contratação deverá analisar a *
 
 <figure><img src="../../.gitbook/assets/Capturar (13).JPG" alt=""><figcaption></figcaption></figure>
 
-2. **Reabrir para Negociação**
+**Reabrir para Negociação** ![](../../.gitbook/assets/image.png)
 
-Mesmo após o encerramento dos itens selecionados, é possível reabri-los para **inabilitar um lance de um fornecedor** ou **todos os lances daquele fornecedor** e, assim, convocar o próximo colocado. Veja no vídeo abaixo como **reabrir os itens e realizar a negociação.**
+Mesmo após o encerramento dos itens selecionados, é possível reabri-los para **inabilitar um lance de um fornecedor** ou **todos os lances daquele fornecedor** e, assim, convocar o próximo colocado. Veja no vídeo abaixo como **reabrir os itens e realizar uma nova negociação.**
 
-3. **Encerrar a Negociação** ![](<../../.gitbook/assets/image (81).png>)
+**Encerrar a Negociação** ![](<../../.gitbook/assets/image (81).png>)
 
-Em seguida clicar no botão **" Encerrar negociação"**
+<mark style="color:red;">**ATENÇÃO!!!**</mark>
 
-<mark style="color:red;">**ATENÇÃO!**</mark> Após o encerramento da negociação, os itens não poderão ser reabertos.
+Clique em “Encerrar negociação” somente quando tiver certeza de que todos os procedimentos foram concluídos e estiver tudo confirmado.
 
+**Após o encerramento, não será possível reabrir a negociação pelo sistema.**
 
+&#x20;Caso seja necessário reabrir algum item, será preciso solicitar o procedimento ao **Suporte Técnico**, pelo e-mail [**sistemas.compras@sea.sc.gov.br**](mailto:sistemas.compras@sea.sc.gov.br).
 
-A dispensa aparecerá no status - Finalizada
+Após o encerramento a dispensa aparecerá no status - Finalizada
 
 <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
