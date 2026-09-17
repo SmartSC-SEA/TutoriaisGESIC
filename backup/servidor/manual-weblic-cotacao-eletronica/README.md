@@ -1,5 +1,6 @@
 ---
 description: Utilize os botões abaixo ou o menu à direita para navegar pelo manual.
+cover: ../../.gitbook/assets/imagem xyz.PNG
 coverY: 0
 layout:
   width: default
