@@ -1,10 +1,16 @@
-# 2 - Disputa de Lances
+# 2 - Esqueci a Senha
 
-Na data e hora agendados para início do processo, a situação da cotação será alterada para “Em disputa”, permitindo ao Agente de contratação acompanhar o envio das propostas dos fornecedores.&#x20;
+Se não se lembra da sua senha, selecione a opção "Esqueci minha Senha". Você receberá um e-mail com o link para redefinição. Para solicitar o envio, digite o seu CPF utilizando apenas os números.
 
-**Os fornecedores possuem o prazo estipulado para apresentar quantos lances quiserem**
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
-<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
 
 **Na área que apresenta o resumo o agente de contratação pode ver:**&#x20;
 
