@@ -1,9 +1,19 @@
 # 1 - Acessar o sistema
 
-Para entrar em uma cotação eletrônica, basta acessar:
+Para acessar o sistema **WEBLIC**, entre em:
 
-[https://cotacao.licitacao.sc.gov.br/](https://cotacao.licitacao.sc.gov.br/)
+[https://licitacao.sc.gov.br/weblic/](https://licitacao.sc.gov.br/weblic/)
 
-Digite seu CPF e sua senha (a mesma utilizada no sistema WEBLIC).
+Informe seu **CPF** e **senha**.
+
+#### Primeiro acesso ou recuperação de senha
+
+Caso ainda não possua uma senha, solicite o acesso pelo e-mail [**sistemas.compras@sea.sc.gov.br**](mailto:sistemas.compras@sea.sc.gov.br), informando:
+
+* **Nome completo**
+* **CPF**
+* **Órgão/Entidade**
+* **E-mail institucional**
+* **Tipo de vínculo:** servidor efetivo, comissionado ou terceirizado.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure></div>
