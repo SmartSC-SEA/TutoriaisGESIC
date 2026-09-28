@@ -52,7 +52,7 @@
   * [9- Prorrogar a Cotação Eletrônica](servidor/manual-weblic-cotacao-eletronica/9-prorrogar-a-cotacao-eletronica.md)
 * [Manual WEBLIC](servidor/manual-weblic/README.md)
   * [1 - Acessar o sistema](servidor/manual-weblic/1-acessar-o-sistema.md)
-  * [2 - Disputa de Lances](servidor/manual-weblic/2-disputa-de-lances.md)
+  * [2 - Esqueci a Senha](servidor/manual-weblic/2-esqueci-a-senha.md)
   * [3 - Desclassificar um Lance](servidor/manual-weblic/3-desclassificar-um-lance.md)
   * [4 - Encerrar Disputa e Iniciar Negociação](servidor/manual-weblic/4-encerrar-disputa-e-iniciar-negociacao.md)
   * [5 - Habilitação, Negociação e Encerramento](servidor/manual-weblic/5-habilitacao-negociacao-e-encerramento.md)
