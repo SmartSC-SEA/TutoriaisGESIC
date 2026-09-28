@@ -54,7 +54,7 @@
   * [1 - Acessar o sistema](servidor/manual-weblic/1-acessar-o-sistema.md)
   * [2 - Esqueci a Senha](servidor/manual-weblic/2-esqueci-a-senha.md)
   * [3 - Como fazer um pedido de Aquisição](servidor/manual-weblic/3-como-fazer-um-pedido-de-aquisicao.md)
-  * [4 - Encerrar Disputa e Iniciar Negociação](servidor/manual-weblic/4-encerrar-disputa-e-iniciar-negociacao.md)
+  * [4 - Como montar um processo de contratação do início ao fim](servidor/manual-weblic/4-como-montar-um-processo-de-contratacao-do-inicio-ao-fim.md)
   * [5 - Habilitação, Negociação e Encerramento](servidor/manual-weblic/5-habilitacao-negociacao-e-encerramento.md)
   * [6 - Ajuste de Preços Lotes](servidor/manual-weblic/6-ajuste-de-precos-lotes.md)
   * [7 - Relatórios](servidor/manual-weblic/7-relatorios.md)
