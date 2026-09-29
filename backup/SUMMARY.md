@@ -52,7 +52,7 @@
   * [9- Prorrogar a Cotação Eletrônica](servidor/manual-weblic-cotacao-eletronica/9-prorrogar-a-cotacao-eletronica.md)
 * [Manual WEBLIC](servidor/manual-weblic/README.md)
   * [1 - Acessar o sistema](servidor/manual-weblic/1-acessar-o-sistema.md)
-  * [2 - Esqueci a Senha](servidor/manual-weblic/2-esqueci-a-senha.md)
+  * [2 - Esqueci minha Senha](servidor/manual-weblic/2-esqueci-minha-senha.md)
   * [3 - Como fazer um pedido de Aquisição](servidor/manual-weblic/3-como-fazer-um-pedido-de-aquisicao.md)
   * [4 - Como montar um processo de contratação do início ao fim](servidor/manual-weblic/4-como-montar-um-processo-de-contratacao-do-inicio-ao-fim.md)
   * [5 - Credenciamento](servidor/manual-weblic/5-credenciamento.md)

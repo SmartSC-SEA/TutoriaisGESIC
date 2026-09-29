@@ -1,4 +1,4 @@
-# 4 - Encerrar Disputa de Lances - Abrir os itens para negociação
+# 4 - Encerrar Disputa e Iniciar Negociação
 
 Encerrada a etapa de disputa de lances, o Agente de Contratação deverá abrir os itens para negociação, junto ao(s) fornecedor(es) melhore(s) colocados do processo.
 
@@ -8,5 +8,5 @@ Clicar no botão <mark style="color:red;">**“Abrir itens selecionados”**</ma
 
 * Iniciar a negociação através do CHAT
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
