@@ -63,4 +63,4 @@
   * [8 -  Como publicar o resultado da sessão no registro de preços](servidor/manual-weblic/8-como-publicar-o-resultado-da-sessao-no-registro-de-precos.md)
   * [9- Como cadastrar uma dispensa de licitação?](servidor/manual-weblic/9-como-cadastrar-uma-dispensa-de-licitacao.md)
   * [10- Como cadastrar um resultado de uma dispensa de licitação sem cotação](servidor/manual-weblic/10-como-cadastrar-um-resultado-de-uma-dispensa-de-licitacao-sem-cotacao.md)
-  * [11- Como cadastrar um resultado de uma dispensa de licitação sem cotação](servidor/manual-weblic/11-como-cadastrar-um-resultado-de-uma-dispensa-de-licitacao-sem-cotacao.md)
+  * [11- Como configurar e finalizar o processo de homologação parcial ?](servidor/manual-weblic/11-como-configurar-e-finalizar-o-processo-de-homologacao-parcial.md)
