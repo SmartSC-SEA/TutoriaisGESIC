@@ -61,4 +61,4 @@
   * [6 - Como incluir um novo ordenador de despesa.](servidor/manual-weblic/6-como-incluir-um-novo-ordenador-de-despesa..md)
   * [7 - Como publicar o resultado após o encerramento da sessão](servidor/manual-weblic/7-como-publicar-o-resultado-apos-o-encerramento-da-sessao.md)
   * [8 -  Como publicar o resultado da sessão no registro de preços](servidor/manual-weblic/8-como-publicar-o-resultado-da-sessao-no-registro-de-precos.md)
-  * [9- Prorrogar a Cotação Eletrônica](servidor/manual-weblic/9-prorrogar-a-cotacao-eletronica.md)
+  * [9- Como cadastrar uma dispensa de licitação?](servidor/manual-weblic/9-como-cadastrar-uma-dispensa-de-licitacao.md)
