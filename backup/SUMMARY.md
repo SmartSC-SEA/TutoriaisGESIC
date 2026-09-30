@@ -54,7 +54,7 @@
   * [1 - Acessar o sistema](servidor/manual-weblic/1-acessar-o-sistema.md)
   * [2 - Esqueci minha Senha](servidor/manual-weblic/2-esqueci-minha-senha.md)
   * [3 - Fazer um pedido de Aquisição (PA)](servidor/manual-weblic/3-fazer-um-pedido-de-aquisicao-pa.md)
-  * [4 - Como montar uma requisição, processo de contratação até a publicação](servidor/manual-weblic/4-como-montar-uma-requisicao-processo-de-contratacao-ate-a-publicacao.md)
+  * [4 - Da Requisição à Publicação](servidor/manual-weblic/4-da-requisicao-a-publicacao.md)
   * [5 - Credenciamento](servidor/manual-weblic/5-credenciamento.md)
   * [6 - Ajuste de Preços Lotes](servidor/manual-weblic/6-ajuste-de-precos-lotes.md)
   * [7 - Relatórios](servidor/manual-weblic/7-relatorios.md)
