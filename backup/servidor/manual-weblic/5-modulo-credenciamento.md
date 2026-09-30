@@ -1,32 +1,16 @@
-# 5 - Credenciamento
+# 5 - Módulo Credenciamento
 
-Encerrada a etapa de negociação o agente de contratação deverá analisar a **documentação, valores, aceitabilidade**. Estando tudo de acordo, o agente deverá:
+O **credenciamento** é um procedimento auxiliar de contratação que permite à Administração Pública habilitar diversos interessados que atendam às condições estabelecidas no edital, quando houver interesse em contratar todos os que cumprirem os requisitos.
 
-1\. Selecionar os itens e clicar em **"Encerrar itens Selecionados"**![](<../../.gitbook/assets/image (82).png>)
+No sistema **WEBLIC**, o processo de credenciamento envolve desde a **montagem e instrução do processo até a publicação do edital no Diário Oficial do Estado (DOE)**.
 
-<figure><img src="../../.gitbook/assets/Capturar (13).JPG" alt=""><figcaption></figcaption></figure>
+**Veja no vídeo abaixo o passo a passo para montar o processo de credenciamento:**
 
-**Reabrir para Negociação** ![](<../../.gitbook/assets/image (1).png>)
-
-Mesmo após o encerramento dos itens selecionados, é possível reabri-los para **inabilitar um lance de um fornecedor** ou **todos os lances daquele fornecedor** e, assim, convocar o próximo colocado. Veja no vídeo abaixo como **reabrir os itens e realizar uma nova negociação.**
-
-{% embed url="https://youtu.be/4LEt8r79ljM" %}
+{% embed url="https://www.youtube.com/watch?v=Tod_zBoAbYI" %}
 
 
 
-**Encerrar a Negociação** ![](<../../.gitbook/assets/image (81).png>)
 
-<mark style="color:red;">**ATENÇÃO!!!**</mark>
-
-Clique em “Encerrar negociação” somente quando tiver certeza de que todos os procedimentos foram concluídos e estiver tudo confirmado.
-
-**Após o encerramento, não será possível reabrir a negociação pelo sistema.**
-
-&#x20;Caso seja necessário reabrir algum item, será preciso solicitar o procedimento ao **Suporte Técnico**, pelo e-mail [**sistemas.compras@sea.sc.gov.br**](mailto:sistemas.compras@sea.sc.gov.br).
-
-Após o encerramento a dispensa aparecerá no status - Finalizada
-
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 
 
