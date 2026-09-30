@@ -55,6 +55,7 @@
   * [2 - Esqueci minha Senha](servidor/manual-weblic/2-esqueci-minha-senha.md)
   * [3 - Pedido de Aquisição (PA)](servidor/manual-weblic/3-pedido-de-aquisicao-pa.md)
   * [4- Como fazer uma (PA) de Itens de Compra Compartilhada.](servidor/manual-weblic/4-como-fazer-uma-pa-de-itens-de-compra-compartilhada..md)
+  * [5- Como fazer uma PA para Serviços Terceirizados](servidor/manual-weblic/5-como-fazer-uma-pa-para-servicos-terceirizados.md)
   * [4 - Da Requisição à Publicação](servidor/manual-weblic/4-da-requisicao-a-publicacao.md)
   * [5 - Módulo Credenciamento](servidor/manual-weblic/5-modulo-credenciamento.md)
   * [6 - Ajuste de Preços Lotes](servidor/manual-weblic/6-ajuste-de-precos-lotes.md)
