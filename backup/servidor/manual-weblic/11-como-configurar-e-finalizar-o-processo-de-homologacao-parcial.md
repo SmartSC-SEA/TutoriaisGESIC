@@ -1,4 +1,3 @@
-# 11- Como cadastrar um resultado de uma dispensa de licitação sem cotação
+# 11- Como configurar e finalizar o processo de homologação parcial ?
 
-{% embed url="https://www.youtube.com/watch?v=2v_SzQjj-c0" %}
-
+{% embed url="https://www.youtube.com/watch?v=sn1YJ3sWuww" %}
