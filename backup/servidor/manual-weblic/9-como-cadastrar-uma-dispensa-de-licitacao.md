@@ -1,11 +1,6 @@
-# 9- Prorrogar a Cotação Eletrônica
+# 9- Como cadastrar uma dispensa de licitação?
 
-A prorrogação será possível antes de terminar o prazo de envio das propostas.&#x20;
+{% embed url="https://www.youtube.com/watch?v=270h4GGBeJE" %}
 
 
 
-<figure><img src="../../.gitbook/assets/Capturar (17).JPG" alt=""><figcaption></figcaption></figure>
-
-Digite a nova data e a justificativa e clique no botão prorrogar.
-
-<figure><img src="../../.gitbook/assets/Capturar 1.JPG" alt=""><figcaption></figcaption></figure>
