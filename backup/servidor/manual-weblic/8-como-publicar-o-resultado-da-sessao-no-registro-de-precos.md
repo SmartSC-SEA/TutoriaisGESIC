@@ -1,15 +1,6 @@
-# 8 - Revogar a Cotação Eletrônica
+# 8 -  Como publicar o resultado da sessão no registro de preços
 
-Entre as prerrogativas da Administração Pública, há a possibilidade de revogar atos que não sejam mais convenientes e oportunos para o atendimento do interesse público.&#x20;
-
-Para revogar o certame, o agente de contratação deverá executar, antes de homologar o processo, os passos a seguir:
-
-<figure><img src="../../.gitbook/assets/Capturar (14).JPG" alt=""><figcaption></figcaption></figure>
-
-* **Passo 01:** Selecionar os itens e Clicar no botão <mark style="color:red;">**“Revogar itens selecionados”**</mark>.&#x20;
-* **Passo 02:** Informar no campo <mark style="color:red;">**“Justificativa”**</mark>, o motivo para revogar a dispensa de licitação.&#x20;
-
-
+{% embed url="https://www.youtube.com/watch?v=xFm-yQ_Jdgw" %}
 
 <figure><img src="../../.gitbook/assets/Capturar (15).JPG" alt=""><figcaption></figcaption></figure>
 
