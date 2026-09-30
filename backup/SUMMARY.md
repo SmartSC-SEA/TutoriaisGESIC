@@ -55,7 +55,7 @@
   * [2 - Esqueci minha Senha](servidor/manual-weblic/2-esqueci-minha-senha.md)
   * [3 - Pedido de Aquisição (PA)](servidor/manual-weblic/3-pedido-de-aquisicao-pa.md)
   * [4 - Da Requisição à Publicação](servidor/manual-weblic/4-da-requisicao-a-publicacao.md)
-  * [5 - Credenciamento](servidor/manual-weblic/5-credenciamento.md)
+  * [5 - Módulo Credenciamento](servidor/manual-weblic/5-modulo-credenciamento.md)
   * [6 - Ajuste de Preços Lotes](servidor/manual-weblic/6-ajuste-de-precos-lotes.md)
   * [7 - Relatórios](servidor/manual-weblic/7-relatorios.md)
   * [8 - Revogar a Cotação Eletrônica](servidor/manual-weblic/8-revogar-a-cotacao-eletronica.md)
