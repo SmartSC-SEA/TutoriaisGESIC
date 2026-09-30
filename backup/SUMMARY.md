@@ -60,5 +60,5 @@
   * [5 - Módulo Credenciamento](servidor/manual-weblic/5-modulo-credenciamento.md)
   * [6 - Como incluir um novo ordenador de despesa.](servidor/manual-weblic/6-como-incluir-um-novo-ordenador-de-despesa..md)
   * [7 - Como publicar o resultado após o encerramento da sessão](servidor/manual-weblic/7-como-publicar-o-resultado-apos-o-encerramento-da-sessao.md)
-  * [8 - Revogar a Cotação Eletrônica](servidor/manual-weblic/8-revogar-a-cotacao-eletronica.md)
+  * [8 -  Como publicar o resultado da sessão no registro de preços](servidor/manual-weblic/8-como-publicar-o-resultado-da-sessao-no-registro-de-precos.md)
   * [9- Prorrogar a Cotação Eletrônica](servidor/manual-weblic/9-prorrogar-a-cotacao-eletronica.md)
