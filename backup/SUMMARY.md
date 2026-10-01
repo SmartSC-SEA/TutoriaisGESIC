@@ -57,7 +57,7 @@
   * [4- Fazer uma (PA) de Itens de Compra Compartilhada.](servidor/manual-weblic/4-fazer-uma-pa-de-itens-de-compra-compartilhada..md)
   * [5- Fazer uma PA para Serviços Terceirizados](servidor/manual-weblic/5-fazer-uma-pa-para-servicos-terceirizados.md)
   * [6 - Da Requisição à Publicação](servidor/manual-weblic/6-da-requisicao-a-publicacao.md)
-  * [5 - Módulo Credenciamento](servidor/manual-weblic/5-modulo-credenciamento.md)
+  * [5 - Credenciamento](servidor/manual-weblic/5-credenciamento.md)
   * [6 - Incluir um Novo Ordenador de Despesa.](servidor/manual-weblic/6-incluir-um-novo-ordenador-de-despesa..md)
   * [7 - Publicar o Resultado após o Encerramento da Sessão](servidor/manual-weblic/7-publicar-o-resultado-apos-o-encerramento-da-sessao.md)
   * [8 -  Publicar o Resultado da Sessão no Registro de Preços](servidor/manual-weblic/8-publicar-o-resultado-da-sessao-no-registro-de-precos.md)
