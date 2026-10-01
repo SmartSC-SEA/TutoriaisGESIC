@@ -1,6 +1,6 @@
-# 4- Como fazer uma (PA) de Itens de Compra Compartilhada.
+# 4- Fazer uma (PA) de Itens de Compra Compartilhada.
 
-Confira no vídeo abaixo o passo a passo para realizar uma **PA de Itens de Compra Compartilhada**
+Confira no vídeo abaixo o passo a passo para realizar uma **PA de Itens de Compra Compartilhada.**
 
 {% embed url="https://www.youtube.com/watch?v=OiMkGGbTZJs" %}
 
